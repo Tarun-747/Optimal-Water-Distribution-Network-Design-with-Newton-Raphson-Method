@@ -48,12 +48,6 @@ The Newton-Raphson method demonstrated superior performance in optimizing water 
 
 The project successfully demonstrates the application of the Newton-Raphson method for cost optimization in water distribution networks. This approach significantly improves design accuracy and efficiency, contributing to the sustainability and effectiveness of water supply systems.
 
-## How to Use
-
-1. Clone the repository: `git clone https://github.com/yourusername/water-distribution-optimization.git`
-2. Navigate to the project directory: `cd water-distribution-optimization`
-3. Follow the instructions in the `INSTALL.md` file to set up the necessary environment.
-4. Run the provided scripts to perform optimization on sample water distribution networks.
 
 ## Contributors
 
@@ -62,10 +56,3 @@ The project successfully demonstrates the application of the Newton-Raphson meth
 - Rathod Vatsalraj Vikramsinh
 - Raiyani Vedanshi Sanjay
 - Tarun Meena
-
-## References
-
-1. Andersen J. H., and Powell, R. S. (1999). “Simulation of water networks containing controlling elements”, J. Water Resour. Plng. and Mgmt., ASCE, 125(3), 162-169.
-2. Bhave, P. R. (1977). “Optimality criteria for distribution networks.” Ind. Jour. of Environ Hlth., 19(2), 120-139.
-3. Donachie, R. P. (1974). “Digital program for water network analysis”, J. of Hyd. Div., ASCE, 100(3), 393-403.
-4. Martin, D. W., and Peters G. (1963). “The application of Newton’s method to network analysis by Digital Computers”, J. Inst. of Water Engrs., 17, 115-129.
